@@ -32,6 +32,3 @@ export class VideoComponent extends BaseComponent<HTMLElement> {
     return url;
   }
 }
-// https://www.youtube.com/watch?v=8pXX2kZNORA&t=441
-// https://www.youtube.com/embed/8pXX2kZNORA
-// https://www.youtube.com/embed/8pXX2_kZNORA
